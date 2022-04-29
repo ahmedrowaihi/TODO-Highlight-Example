@@ -1,0 +1,8 @@
+{
+  "name": "TODO-Highlight-Example",
+  "version": "1.0.0",
+  "description": "a showcase of how you could configure TODO Hilight Extension to better organize TODOs whether working on your own project or collaborative projects.",
+  "main": "example.js",
+  "author": "Ahmed Rowaihi",
+  "license": "GPL"
+}
